@@ -1,0 +1,61 @@
+"E-Commerce Sales & Customer Analytics Using SQL"
+
+Your final analysis can contain:
+
+1. Executive Summary
+
+Total Orders
+Total Customers
+Total Products
+Total Revenue
+Average Order Value
+
+2. Sales Analysis
+
+Monthly sales
+Quarterly sales
+MoM growth
+Category contribution
+
+3. Product Analysis
+
+Top products
+Bottom products
+Top 3 products per category
+Quantity vs revenue
+
+4. Customer Analysis
+
+Top customers
+Repeat customers
+Customer revenue contribution
+
+5. Geographic Analysis
+
+State performance
+City performance
+
+6. Discount Analysis
+
+Discount by category
+High-discount products
+Discount vs revenue
+
+7. Delivery Analysis
+
+Average delivery days
+Delivery performance
+State-wise delivery
+
+8. Payment Analysis
+
+Payment mode usage
+Revenue by payment mode
+
+9. Advanced SQL
+
+CTEs
+Window functions
+Ranking
+MoM growth
+Revenue contribution
